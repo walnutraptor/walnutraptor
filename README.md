@@ -4,4 +4,4 @@
 
 -I am interested in learning more about machine learning along with web and mobile development.
 
--my favorite game is Warhammer 40,000
+-My favorite game is Warhammer 40,000
